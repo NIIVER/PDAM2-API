@@ -1,0 +1,6 @@
+com\Oltursa\PDAM2\controller\ViajeController.class
+com\Oltursa\PDAM2\model\Viaje.class
+com\Oltursa\PDAM2\Pdam2Application.class
+com\Oltursa\PDAM2\service\ViajeServiceImp.class
+com\Oltursa\PDAM2\repository\ViajeRepository.class
+com\Oltursa\PDAM2\service\ViajeService.class
